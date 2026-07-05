@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+vector_db/
+downloades/
+*.wav
+*.mp3
+*.mp4
+*.webm
+where
+.vscode/
+*.log
